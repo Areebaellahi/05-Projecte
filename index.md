@@ -1,1 +1,1 @@
-<p><a href="https://areebaellahi.github.io/Projecte05/">Primera setmana</a>
+<p><a href="https://areebaellahi.github.io/Projecte-primera-setmana/">Primera setmana</a>
